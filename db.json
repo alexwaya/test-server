@@ -1,8 +1,8 @@
 [
 	{
-		"publisher" : "Alex Waya",
-		"quote" : "This is a quoute",
-		"author" : "Mr Programmer"
+		"name" : "Alex Waya",
+		"username" : "This is a quoute",
+		"city" : "Mr Programmer"
 	}
 
 ]
